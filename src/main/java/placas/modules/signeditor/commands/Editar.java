@@ -26,7 +26,7 @@ public class Editar implements CommandExecutor {
             return true;
         }
 
-        Player player = ((Player) sender);
+        Player player = (Player) sender;
         Set<Material> materials = null;
         Block block = player.getTargetBlock(materials, 4);
         Material type = block.getType();
