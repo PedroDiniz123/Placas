@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Placas:jar">
+    <output-path>$PROJECT_DIR$/../../../Mine1.8/plugins</output-path>
+    <root id="archive" name="Placas.jar">
+      <element id="module-output" name="Placas" />
+    </root>
+  </artifact>
+</component>

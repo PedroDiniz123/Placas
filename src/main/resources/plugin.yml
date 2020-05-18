@@ -1,0 +1,8 @@
+name: Placas
+main: placas.core.Placas
+version: 1.0
+commands:
+  editar:
+    description: Edita uma placa
+    usage: §9Use- §7/editar §b<linha 1-4> <texto>  §7(Enquanto olha para uma placa);
+    permission: fallcraft.placas.editar
