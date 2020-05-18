@@ -1,4 +1,5 @@
 name: Placas
+author: PedroDiniz
 main: placas.core.Placas
 version: 1.0
 commands:
